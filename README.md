@@ -54,11 +54,11 @@ The following images illustrate the system processing the provided configuration
 
 **Part 1: Initial Execution**
 Producers concurrently generate messages while the Dispatcher begins sorting them.
-![Part 1 Demo](part1_demo.jpg)
+![Part 1 Demo](part1_demo.png)
 
 **Part 2: Graceful Termination**
 The Screen Manager prints the final messages and a "DONE" signal.
-![Part 2 Demo](part2_demo.jpg)
+![Part 2 Demo](part2_demo.png)
 
 ## Technical Stack
 * **Language:** C++
